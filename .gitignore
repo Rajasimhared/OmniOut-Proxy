@@ -5,6 +5,5 @@
 *.key
 *.pub
 *.jks
-.env
 node_modules
 client
